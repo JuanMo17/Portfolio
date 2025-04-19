@@ -10,12 +10,12 @@ function Main() {
       { 
         name: 'Recetario de comidas típicas de Argentina', 
         description: 'Aplicación web desarrollada con React que recopila recetas tradicionales de distintas regiones de Argentina. Permite a los usuarios navegar por categorías, ver ingredientes, instrucciones paso a paso e imágenes ilustrativas. El diseño es responsive y pensado para una experiencia de usuario simple e intuitiva.',
-        imageUrl: 'https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-9364-622f-af63-1b41b6ee0c47/raw?se=2025-04-19T08%3A44%3A16Z&sp=r&sv=2024-08-04&sr=b&scid=625aac13-0d60-5a46-9d57-00749c1af4d2&skoid=51916beb-8d6a-49b8-8b29-ca48ed86557e&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-19T06%3A09%3A07Z&ske=2025-04-20T06%3A09%3A07Z&sks=b&skv=2024-08-04&sig=yEtmVKOlUoIblmDs/z1ZKu5NOuN4PXG%2Br8dBRK%2BMDSU%3D'
+        imageUrl: 'https://scontent.ftuc4-1.fna.fbcdn.net/v/t39.30808-6/492128243_29152320384414389_8066807051794215474_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeERrnSV--lfCGE-rGCMhDuyGtf1MikUafwa1_UyKRRp_CqfCONqWdPkJ1L9OCSZtwVniVsgnirsv23tOtUP0m4r&_nc_ohc=c25i8EbDHvAQ7kNvwGGKM-O&_nc_oc=AdnJTc0iclSOMDJlDVZy8E9Pu6jBQx9jrPX_pn0jrrkdDqFNUWZnxN14HVrf7ZQc1IyETrfDr21MNRK17ulgN3S-&_nc_zt=23&_nc_ht=scontent.ftuc4-1.fna&_nc_gid=HOMyoKWsoPUWogK5UjBGDQ&oh=00_AfFYImAHkM-LWCpDU5hL0HD3-bA8oeGgHr5Ni7sD-oeY5Q&oe=680937B7'
       },
       { 
         name: 'Carreras de Caballos virtuales', 
         description: 'Aplicación de escritorio en formato de juego, donde los usuarios pueden apostar en carreras de caballos virtuales. Las posiciones y resultados son generados de forma aleatoria mediante un algoritmo simple de programación. Este proyecto permitió afianzar conocimientos en lógica, control de eventos y manipulación de interfaces gráficas con C#.',
-        imageUrl: 'https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-f01c-622f-8fa4-a0c75315b11e/raw?se=2025-04-19T08%3A44%3A16Z&sp=r&sv=2024-08-04&sr=b&scid=2d2060a2-4c0f-5eda-bf99-d23c8ce5286c&skoid=51916beb-8d6a-49b8-8b29-ca48ed86557e&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-18T19%3A27%3A00Z&ske=2025-04-19T19%3A27%3A00Z&sks=b&skv=2024-08-04&sig=XwjjNsIP9JJXbwpyApTlwkVl4n%2BK83REWRSPPl41Nn0%3D'
+        imageUrl: 'https://scontent.ftuc4-1.fna.fbcdn.net/v/t39.30808-6/492371308_29152320504414377_4784955553017897037_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeGMHRUOLSZqVY-9l2ejRbwAQJ2Y0Ik4I-dAnZjQiTgj58lns9S2aPNqLp3_krzhdEiVPySoh1_F5evQRjTeSb65&_nc_ohc=f-yTlZIbON0Q7kNvwEAqfni&_nc_oc=AdlRAYqnuDB2nemU1q9PwpMj-Xad8I4E4njDrE9KNP4142OZW9N90Y9ou9r2RHEKI_3dGAhFxicUx-56fyi97xbI&_nc_zt=23&_nc_ht=scontent.ftuc4-1.fna&_nc_gid=jqiBGgKqMGgPOnfrKZulKA&oh=00_AfGb6LJT8Yw4nh4GDR04qxjayo0oC0m91GI6piR-STH-Lg&oe=6809421A'
       }
     ]},
     { id: 'experiencia', title: 'Experiencia Laboral', content: [
@@ -32,19 +32,19 @@ function Main() {
         name: 'POO en C#', 
         issuer: 'Roling Code', 
         year: '2022', 
-        imageUrl: 'https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-8fa0-622f-9f48-f451216bd75d/raw?se=2025-04-19T07%3A46%3A43Z&sp=r&sv=2024-08-04&sr=b&scid=232fdc6f-e592-5875-b806-349b79e7269d&skoid=de76bc29-7017-43d4-8d90-7a49512bae0f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-18T19%3A28%3A50Z&ske=2025-04-19T19%3A28%3A50Z&sks=b&skv=2024-08-04&sig=id7TcjY5eWgDyJ/9hUrUD0HyVbnLsXujd00hkz3PyIA%3D' 
+        imageUrl: 'https://scontent.ftuc4-2.fna.fbcdn.net/v/t39.30808-6/492002159_29152320797747681_2536491191593249900_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFZ28vnXCLwrLNgn_lI34sO_VdfDpI8duH9V18Okjx24RwYgNiEbWCqKqprFCXAQLFSvJjzrYDmNxVvIJEdFbX5&_nc_ohc=xbf0YjKqq7sQ7kNvwHJLgYg&_nc_oc=AdnkPeND1zrsAcUyRADrHrCY5KhTT_Qnys507mBr4GMhY2xABGR8tepCxDgNKeOyw92m_ZkvrocedqU2mRuOL8cc&_nc_zt=23&_nc_ht=scontent.ftuc4-2.fna&_nc_gid=jsSVAXaKtc9rCEjhGNmUDA&oh=00_AfHFz-Rq1sBe9HxibCs1yoVr2wWvZl-gzklba-H8tFEJVQ&oe=68093621'
       },
       { 
         name: 'Google IT Automation with Python', 
         issuer: 'Google', 
         year: '2023', 
-        imageUrl: 'https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-6f68-622f-8d47-b5900d85d819/raw?se=2025-04-19T07%3A49%3A30Z&sp=r&sv=2024-08-04&sr=b&scid=63b491e5-8bbc-5f4d-8c48-4734d8f305ca&skoid=de76bc29-7017-43d4-8d90-7a49512bae0f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-18T19%3A26%3A30Z&ske=2025-04-19T19%3A26%3A30Z&sks=b&skv=2024-08-04&sig=CZGIXWvWGHSgBPdeS9HWldHpd%2BewdgqWMWKDakrySso%3D' 
+        imageUrl: 'https://scontent.ftuc4-2.fna.fbcdn.net/v/t39.30808-6/492202049_29152320541081040_4610880832527251986_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeH9xQvBJPdtRQWVFf5X0K306UJt0aH_iQTpQm3Rof-JBIl62a-y-WqcDr2QOpI8q6Mn2j2GfytxWvmqsBhxdkG0&_nc_ohc=NWJW23sIzFEQ7kNvwF0RCAQ&_nc_oc=AdkRcL4e8QQ_jdK2AMwiKkAafN713-S0SXarvlGaoJ8LiJr5UxNtAJDxxrI774wOV9e2Go74gL0gy4bErg_oSE_R&_nc_zt=23&_nc_ht=scontent.ftuc4-2.fna&_nc_gid=j71zi0pLW95bxVMyaTeGHw&oh=00_AfE31UzClqHARs-AyraPcl26JLZN7-pExTf2vo3hV76xlQ&oe=6809200F' 
       },
       { 
         name: 'The Complete Web Developer Bootcamp', 
         issuer: 'Udemy', 
         year: '2024', 
-        imageUrl: 'https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-3c10-622f-86f7-a571e0fbd127/raw?se=2025-04-19T07%3A54%3A15Z&sp=r&sv=2024-08-04&sr=b&scid=1af8f298-c77a-5bd6-aaf7-a61c3cc25658&skoid=de76bc29-7017-43d4-8d90-7a49512bae0f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-18T19%3A25%3A18Z&ske=2025-04-19T19%3A25%3A18Z&sks=b&skv=2024-08-04&sig=0FpVjOcDu9awDewNbhCj9ChxthCelgDnMuyB4Li55CE%3D' 
+        imageUrl: 'https://scontent.ftuc4-2.fna.fbcdn.net/v/t39.30808-6/492074036_29152321081080986_1868369518731368424_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeEE3n6XDC5dQ444BE3kLIup8b_xVG9TG5bxv_FUb1MblkjOLXRIAg_wbIhCygGJwpuiO2rIV4Z1XpJxqX9yt-LS&_nc_ohc=QUtyhJa6CjgQ7kNvwEgMNta&_nc_oc=AdnnseTzZC90b6fRBSqLqJbfaDlT8de3zn8g0G8ddY3RGiOvylmJAy8JiL4B9YLLUKsPPMvK2ssDJiXEhbPLfaXI&_nc_zt=23&_nc_ht=scontent.ftuc4-2.fna&_nc_gid=sZ9PWUKqNdrZk96LmSfZwg&oh=00_AfE3xIztFhSWByOLcpYLbTFIU4ZOMhEexb_hKfmg_a0qHg&oe=68093157' 
       }
     ]}
   ];
